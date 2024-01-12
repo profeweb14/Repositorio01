@@ -6,6 +6,6 @@
     <title>Pagina 1</title>
 </head>
 <body>
-    <p>Prueba <?php echo $lnAnillo ?> </p>
+    <p>Aquí quiero mostrar la variable que viene del controlador: <?php echo $lnAnillo ?> </p>
 </body>
 </html>
